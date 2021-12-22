@@ -2,6 +2,7 @@
 </br></br>
 <h3 align="center">Desarrollador web fullstack</h3><hr>
 <p align="left">
+Poseo conocimientos en HTML / CSS(LESS-SASS) / JavaScript / React-Redux / NodeJS / MySQL / PostgresSQL / Sequelize / C++/ Photoshop .
 Llevo mas de 8 años de pasión por el desarrollo y diseño web, comenzando la misma en la creación de sitios web para servidores de vídeo juegos los cuales montaba con un grupo de amigos.
 Autodidacta, en continuo aprendizaje, inquieto, MUY exigente conmigo mismo, perfeccionista.
 Me destaco por mi imaginación, resolución rápida de problemas, responsabilidad y confiabilidad. Mis trabajos son ágiles, dinámicos, no pierdo el tiempo cuando me comprometo, aunque siempre tratando de tener la máxima perfección y calidad en mis proyectos.
