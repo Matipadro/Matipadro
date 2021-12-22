@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 a todos!... soy Matias Padro</h1>
+<h1 align="center">Hola 👋 a todos!.. soy Matias Padro</h1>
 </br></br>
 <h3 align="center">Desarrollador web fullstack con fuerte tendendia al desarollo frontend</h3><hr>
 <p align="left">
