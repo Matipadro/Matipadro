@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋 a todos!... soy Matias Padro</h1>
 </br></br>
-<h3 align="center">Desarrollador web fullstack</h3><hr>
+<h3 align="center">Desarrollador web fullstack con fuerte tendendia al desarollo frontend</h3><hr>
 <p align="left">
 Poseo conocimientos en HTML / CSS(LESS-SASS) / JavaScript / React-Redux / NodeJS / MySQL / PostgresSQL / Sequelize / C++/ Photoshop .
 Llevo mas de 8 años de pasión por el desarrollo y diseño web, comenzando la misma en la creación de sitios web para servidores de vídeo juegos los cuales montaba con un grupo de amigos.
