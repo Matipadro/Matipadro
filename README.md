@@ -37,7 +37,7 @@ https://saintseiyaawakening09.com/</p>
 
 <img src='https://user-images.githubusercontent.com/65468357/136304932-5cd43327-98aa-4636-b529-723d41546c13.png' alt='JL09' height='200'>
 </br>
-<h4 align="left"> 📌 -Proyecto Freelance CryptoHouse9</h4>
+<h4 align="left"> 📌 -Proyecto Freelance CryptoHouse</h4>
 <p align="left">En actual desarrollo con #PHP, #MySQL, #HTML5, #CSS3, #JavaScript. 
 
 En este proyecto estoy a cargo del **Desarrollo FrontEnd**
@@ -45,6 +45,15 @@ En este proyecto estoy a cargo del **Desarrollo FrontEnd**
 https://cryptohouse.website/</p>
 
 <img src='https://user-images.githubusercontent.com/65467455/152883982-25c84bd6-948b-4b5d-8591-49dc3106545b.png' alt='JL09' height='200'>
+</br>
+<h4 align="left"> 📌 -Proyecto Freelance IngeniousMiner</h4>
+<p align="left">En actual desarrollo con #HTML5, #CSS3, #JavaScript.
+
+En este proyecto estoy a cargo del **Desarrollo FrontEnd**
+
+https://ingeniousminer.io/</p>
+
+<img src='https://user-images.githubusercontent.com/65467455/152884279-45eee923-6fe8-4f60-8412-cac8e9f194b1.png' alt='JL09' height='200'>
 </br></br></br></br></br></br><hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matipadro&show_icons=true&locale=en&layout=compact" alt="matipadro" /></p>
 
