@@ -44,6 +44,7 @@ En este proyecto estoy a cargo del **Desarrollo FrontEnd**
 
 https://cryptohouse.website/</p>
 
+<img src='https://user-images.githubusercontent.com/65467455/152883982-25c84bd6-948b-4b5d-8591-49dc3106545b.png' alt='JL09' height='200'>
 </br></br></br></br></br></br><hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matipadro&show_icons=true&locale=en&layout=compact" alt="matipadro" /></p>
 
